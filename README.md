@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Final Year AI & Data Science student at DYPCOE, Pune, passionate about building smart web apps and uncovering insights from data. Skilled MERN & PHP Developer with experience in ReactJS, D3.js, Node.js, Express.js, and MySQL/MongoDB. Proficient in JavaScript, Python, C++, and PHP. Strong foundation in Data Science, EDA, Machine Learning, and data visualization using Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. Experienced in API integration, REST APIs, Git & GitHub. Exploring DevOps, API Security, and Open Source. 🤝 Open to collaborations and internships.
+🚀 Final Year AI & Data Science student at DYPCOE, Pune, passionate about building smart web apps and uncovering insights from data. Skilled MERN Developer with experience in ReactJS, D3.js, Node.js, Express.js, and MySQL/MongoDB. Proficient in JavaScript, Python, C++. Strong foundation in Data Science, EDA, Machine Learning, and data visualization using Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. Experienced in API integration, REST APIs, Git & GitHub. Exploring DevOps, API Security, and Open Source. 🤝 Open to collaborations and internships.
 
 
 ## 🌐 Socials:
